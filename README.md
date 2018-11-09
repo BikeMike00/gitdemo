@@ -1,7 +1,7 @@
 # gitdemo
-this is my first repo using git.
+this is my first repo using git. Hello on you :))))
 
-** Description of today
+## Description of today
 * change file
 * add file to staging
 * commit file with a message
